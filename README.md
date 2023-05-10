@@ -27,7 +27,7 @@ In de eerste week heb ik met klasgenoten uit mijn groepje interview vragen opges
   Gewoon naar werk met ov, soms thuis, soms op kantoor. Bij cliëntenbelang Amsterdam.
 - Hoe kiest u nu uw kleding? <br>
   Sommige stukken zijn makkelijk te identificeren op bijvoorbeeld gevoel, maar bijvoorbeeld hemden of panties zijn lastiger uit elkaar te halen.
-- Waaraan identificeert u uw kledingstukken?
+- Waaraan identificeert u uw kledingstukken? <br>
   Stof, vorm
 - Krijgt u veel hulp thuis? <br>
   Nee, is meestal niet nodig, behalve bij twijfel.
