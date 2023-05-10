@@ -21,25 +21,25 @@ Aan mijn dus een ontwerp te maken dat de ordening van de kast voor Petra inzicht
 ## Week 1
 In de eerste week heb ik met klasgenoten uit mijn groepje interview vragen opgesteld om meer achter Petra te komen en hoe haar dagelijks leven er ongeveer uit ziet. Hieronder staan een aantal van deze vragen met antwoorden:
 
-- Bent u blind geboren of blind geworden? 
+- Bent u blind geboren of blind geworden? <br>
   Geboren
-- Hoe ziet uw dagelijks leven eruit?
+- Hoe ziet uw dagelijks leven eruit? <br>
   Gewoon naar werk met ov, soms thuis, soms op kantoor. Bij cliëntenbelang Amsterdam.
-- Hoe kiest u nu uw kleding?
+- Hoe kiest u nu uw kleding? <br>
   Sommige stukken zijn makkelijk te identificeren op bijvoorbeeld gevoel, maar bijvoorbeeld hemden of panties zijn lastiger uit elkaar te halen.
 - Waaraan identificeert u uw kledingstukken?
   Stof, vorm
-- Krijgt u veel hulp thuis?
+- Krijgt u veel hulp thuis? <br>
   Nee, is meestal niet nodig, behalve bij twijfel.
-- Wat zijn uw irritaties aan applicaties/website met uw screen reader?
+- Wat zijn uw irritaties aan applicaties/website met uw screen reader? <br>
   Hangt heel erg van de site af, soms is het helemaal niet toegankelijk. Soms komen er popups in de weg, knoppen hebben geen tekst / label.
-- Vindt u het gebruik van een mobiel fijn?(En welke telefoon heeft u?) Zo nee wat gebruikt u dan als alternatief?
+- Vindt u het gebruik van een mobiel fijn?(En welke telefoon heeft u?) Zo nee wat gebruikt u dan als alternatief? <br>
   Ja
-- Heeft u op het web een ervaring gehad wat u echt fijn vond en uw beperking helemaal ondersteunde?
+- Heeft u op het web een ervaring gehad wat u echt fijn vond en uw beperking helemaal ondersteunde? <br>
   Zoeken in google, gebruikt vaker / liever apps dan websites. Websites doen vaak veel verschillende dingen dus minder overzicht. Apps doen meestal 1 ding goed. Goede website:       lovely.com.
-- Maakt u gebruik van siri en wat vind u ervan?
+- Maakt u gebruik van siri en wat vind u ervan? <br>
   Niet zo vaak, is heel traag of suf, heeft thuis wel een google nest. Gebruikt ze vooral voor de thermostaat, die digitaal is.
-- Heeft u zelf misschien ideeën of voorkeur naar een oplossing?
+- Heeft u zelf misschien ideeën of voorkeur naar een oplossing? <br>
   Nee.
 
 
