@@ -45,6 +45,10 @@ In de eerste week heb ik met klasgenoten uit mijn groepje interview vragen opges
 Gebaseerd op de antwoorden wilde ik een concept gaan bedenken dat aansluit aan de belangen van Petra. 
 
 ## Mijn eerste concept
+Mijn eerste concept was een QR code die Petra op elk stukje van haar kledingkast kon hangen. Deze QR code kon ze dan scannen (uit interview bleek dat zij weet hoe ze een QR code scanner app moet gebruiken) zodat ze naar een pagina toe wordt geleid om vervolgens daar meer informatie over het kledingstuk te krijgen. In de app kon ze ook met pijlen zien welk kledingstuk eronder de gescande QR code zit, en welke daar weer links of rechts of boven van zit. Op die manier kan ze makkelijk door haar kleding kast.
+
+Helaas liep ik tegen een aantal problemen met dit concept. Wat bleek is dat Petra niet dezelfde spullen houdt op dezelfde plek. Dit betekent dat het pijlensysteem, waarmee Petra door haar kast zou kunnen navigeren, niet werkt als er elke keer verschillende spullen liggen op de QR codes die bedoeld zijn voor een specifiek kledingstuk. Daarnaast wordt het moeilijk om de QR codes te verwisselen, omdat je niet het verschil tussen QR codes kan voelen. Wat ik had kunnen doen om dit op te lossen was misschien door 
+
 <img src="/concept1-1.jpg" height=400px>
 <img src="/concept1-2.jpg" height=400px>
 
