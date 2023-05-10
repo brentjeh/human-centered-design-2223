@@ -42,6 +42,11 @@ In de eerste week heb ik met klasgenoten uit mijn groepje interview vragen opges
 - Heeft u zelf misschien ideeën of voorkeur naar een oplossing? <br>
   Nee.
 
+Gebaseerd op de antwoorden wilde ik een concept gaan bedenken dat aansluit aan de belangen van Petra. 
+
+## Mijn eerste concept
+
+
 
 
 
