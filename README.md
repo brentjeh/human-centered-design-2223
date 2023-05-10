@@ -45,7 +45,7 @@ In de eerste week heb ik met klasgenoten uit mijn groepje interview vragen opges
 Gebaseerd op de antwoorden wilde ik een concept gaan bedenken dat aansluit aan de belangen van Petra. 
 
 ## Mijn eerste concept
-
+<img src="/concept - 1.jpg" height=400px>
 
 
 
