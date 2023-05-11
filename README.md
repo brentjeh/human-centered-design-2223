@@ -56,7 +56,16 @@ Helaas liep ik tegen een aantal problemen met dit concept. Wat bleek is dat Petr
 In week 2 kregen we de mogelijkheid om weer ons ontwerp te laten testen door Petra. Ik was toch benieuwd naar wat zij vond van het idee, maar ik kreeg ongeveer dezelfde feedback terug waar ik zelf ook al bang voor was. Daarom besloot ik voor een nieuw concept te gaan.
 
 ## Mijn tweede concept
-Mijn tweede
+In mijn tweede concept heb ik het QR code idee achterwege gelaten. Nu is het het idee om Petra de kledingstukken te laten filteren. In de app kan de gebruiker de kledingstukken filteren op kleur (zwart, rood, wit, blauw, etc.), stijl (casual, formeel, sportief, etc.), seizoen (winter, zomer, herfst, lente) en gelegenheid (feestje, bruiloft, begravenis, etc.). De gebruiker kan zelf ook kledingstukken en filters toevoegen. Bij het toevoegen van de kleding kan de gebruiker zelf selecteren welke kleur, voor welk seizoen, in welke stijl en voor welke gelegenheid het kledingstuk is.
+
+### Functionaleiten
+- Een homescreen
+- Een filtersysteem gebaseerd op kleur, stijl, seizoen en gelegenheid
+- Een optie om een kleding stuk toe te voegen
+- Een optie om een nieuwe filter toe te voegen
+- Een optie om een naam aan het kledingstuk toe te voegen
+- Een optie om een beschrijving aan het kledingstuk toe te voegen
+- Een zoekfunctie
 
 <img src="/concept2-1.jpg" height=400px>
 <img src="/concept2-2.jpg" height=400px>
