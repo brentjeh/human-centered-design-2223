@@ -52,7 +52,9 @@ Helaas liep ik tegen een aantal problemen met dit concept. Wat bleek is dat Petr
 <img src="/concept1-1.jpg" height=400px>
 <img src="/concept1-2.jpg" height=400px>
 
+## Week 2
+In week 2 kregen we de mogelijkheid om weer ons ontwerp te laten testen door Petra. Ik was toch benieuwd naar wat zij vond van het idee, maar ik kreeg ongeveer dezelfde feedback terug waar ik zelf ook al bang voor was. Daarom besloot ik voor een nieuw concept te gaan.
 
-
+## Mijn tweede concept
 
 
