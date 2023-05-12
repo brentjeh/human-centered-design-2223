@@ -74,7 +74,9 @@ Omdat mijn ontwerp compleet gericht is op een specifiek iemand met een specifiek
 2. Ignore conventions
    Omdat designers in het algemeen designen voor andere designers. Veel van de patterns die je op het web vindt zijn dus gemaakt voor andere designers. De gemiddelde web pagina      houdt dus geen rekening met specifiekere gevallen, waardoor er problemen ontstaan voor deze specifiekere gevallen. Een voorbeeld hiervan is dat een gemiddelde web pagina          overvol zit met informatie die het moeilijk maakt voor een screenreader gebruiker zoals Petra om door te navigeren. Daarom heb ik mijn ontwerp hierop aangepast. 
 3. Prioritise identity
+   Door met Petra te testen heb ik inzichten kunnen verzamelen die ik heb toegepast tot mijn ontwerp.
 4. Add nonsense
+   Door de leuke, niet persee functionele, features toe te voegen aan de website kan ik het navigeren van de website voor Petra leuker maken.
 
 ## User Scenario
 Om de identiteit van Petra goed vast te kunnen leggen heb ik een User Scenario geschreven. Hierin geef ik antwoord op de 4 w vragen: Who? What? How? en Why?
