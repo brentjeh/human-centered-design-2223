@@ -78,7 +78,12 @@ Omdat mijn ontwerp compleet gericht is op een specifiek iemand met een specifiek
 
 ## User Scenario
 Om de identiteit van Petra goed vast te kunnen leggen heb ik een User Scenario geschreven. Hierin geef ik antwoord op de 4 w vragen: Who? What? How? en Why?
-Who?
+- Who is the user I’m designing for?
+  Petra is een vrouw en werkt bij Cliëntenbelang Amsterdam als beleidsmedewerker Toegankelijkheid en Mobiliteit. Ze heeft ook een eigen vertaalbureau. Daarnaast is ze vrijwilliger   bij de luisterlijn en sport graag. Je representatief kunnen kleding in verschillende omstandigheden is voor iedereen belangrijk, ook voor Petra. Wat is casual, zakelijk,           feestelijk of geschikt voor een begrafenis? Petra heeft een kast vol kleren die ze graag op het juiste moment wil kunnen gebruiken.
+- What does this user want on my site?
+  Een systeem dat de ordening van de kast voor Petra inzichtelijk maakt op kleur en stijl.
+- How is this user going to achieve her goals?
+  Aangezien Petra blind is, gebruikt zij het web op een andere manier dan mensen die wel kunnen zien. Bij het navigeren gebruikt ze een aantal hulpmiddelen, waaronder een           toetsenbord met braille regel en een screenreader. Deze apparaten zijn ontworpen om de informatie van visuele designs om te zetten naar voor haar bruikbare informatie.
 
 
 <img src="/concept2-1.jpg" height=400px>
