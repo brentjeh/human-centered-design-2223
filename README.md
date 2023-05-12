@@ -83,7 +83,9 @@ Om de identiteit van Petra goed vast te kunnen leggen heb ik een User Scenario g
 - What does this user want on my site?
   Een systeem dat de ordening van de kast voor Petra inzichtelijk maakt op kleur en stijl.
 - How is this user going to achieve her goals?
-  Aangezien Petra blind is, gebruikt zij het web op een andere manier dan mensen die wel kunnen zien. Bij het navigeren gebruikt ze een aantal hulpmiddelen, waaronder een           toetsenbord met braille regel en een screenreader. Deze apparaten zijn ontworpen om de informatie van visuele designs om te zetten naar voor haar bruikbare informatie.
+  Aangezien Petra blind is, gebruikt zij het web op een andere manier dan mensen die wel kunnen zien. Bij het navigeren gebruikt ze een aantal hulpmiddelen, waaronder een           toetsenbord met braille regel en een screenreader. Deze apparaten zijn ontworpen om de informatie van visuele designs om te zetten naar voor haar bruikbare informatie. Daarom is   het voor Petra belangrijk om zonder problemen toegang te hebben tot mijn website met de hulpmiddelen die zij gebruikt. 
+- Why does this user come to my site?
+  Petra wilt zich representatief kunnen kleden in verschillende omstandigheden. Omdat ze blind is, kan ze natuurlijk niet kleuren onderscheiden van elkaar. Wel kan ze aan het stof   voelen wat voor kledingstuk het is, bijvoorbeeld een hemd van een jas. Ze wilt op mijn site kunnen zien welke kleuren en stijlen bij elkaar passen, zodat ze weet wat ze kan       dragen in een bepaalde situatie.
 
 
 <img src="/concept2-1.jpg" height=400px>
