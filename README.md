@@ -67,12 +67,19 @@ In mijn tweede concept heb ik het QR code idee achterwege gelaten. Nu is het het
 - Een optie om een beschrijving aan het kledingstuk toe te voegen
 - Een zoekfunctie
 
-### De 4 Exclusive Design principes
+## De 4 Exclusive Design principes
 Omdat mijn ontwerp compleet gericht is op een specifiek iemand met een specifieke beperking, wilde ik aan de hand van de 4 Exclusive Design principes mijn ontwerp toegankelijk maken voor deze specifieke persoon.
 1. Study situation
    Omdat Petra haar situatie heel specifiek is heb ik met een groepje onderzoek gedaan naar haar situatie, en hoe zij in het specifiek omgaat met in dit geval websites. Uit dit      onderzoek (voornamelijk de interviews) heb ik de informatie gehaald die ik heb toegepast tot mijn ontwerp.
 2. Ignore conventions
    Omdat designers in het algemeen designen voor andere designers. Veel van de patterns die je op het web vindt zijn dus gemaakt voor andere designers. De gemiddelde web pagina      houdt dus geen rekening met specifiekere gevallen, waardoor er problemen ontstaan voor deze specifiekere gevallen. Een voorbeeld hiervan is dat een gemiddelde web pagina          overvol zit met informatie die het moeilijk maakt voor een screenreader gebruiker zoals Petra om door te navigeren. Daarom heb ik mijn ontwerp hierop aangepast. 
+3. Prioritise identity
+4. Add nonsense
+
+## User Scenario
+Om de identiteit van Petra goed vast te kunnen leggen heb ik een User Scenario geschreven. Hierin geef ik antwoord op de 4 w vragen: Who? What? How? en Why?
+Who?
+
 
 <img src="/concept2-1.jpg" height=400px>
 <img src="/concept2-2.jpg" height=400px>
