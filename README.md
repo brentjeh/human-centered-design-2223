@@ -53,7 +53,10 @@ Helaas liep ik tegen een aantal problemen met dit concept. Wat bleek is dat Petr
 <img src="/concept1-2.jpg" height=400px>
 
 ## Week 2
-In week 2 kregen we de mogelijkheid om weer ons ontwerp te laten testen door Petra. Ik was toch benieuwd naar wat zij vond van het idee, maar ik kreeg ongeveer dezelfde feedback terug waar ik zelf ook al bang voor was. Daarom besloot ik voor een nieuw concept te gaan.
+In week 2 kregen we de mogelijkheid om weer ons ontwerp te laten testen door Petra. Ik was toch benieuwd naar wat zij vond van het idee, maar ik kreeg ongeveer dezelfde feedback terug waar ik zelf ook al bang voor was.
+
+Uit de test bleek dat mijn concept niet handig zou zijn voor Petra. Het probleem was dat mijn concept gemaakt was voor een kledingkast waarin Petra haar kleding elke keer op dezelfde plekken legt. Dit omdat wanneer Petra de QR code scant, de informatie over het kledingstuk wat bij de QR code ligt wordt voorgelezen aan Petra. Als kledingstukken telkens worden verplaatst en dus bij de verkeerde QR codes gelegd worden worden de verkeerde kledingstukken aan Petra voorgelezen. Ik dacht dit eerst op te lossen door braille toe te voegen aan de QR codes, zodat ze zelf de QR codes bij de bijbehorende kleding kon leggen. Ik was alleen van mening dat dit het alleen maar moeilijker zou maken voor Petra.
+Daarom besloot ik voor een nieuw concept te gaan.
 
 ## Mijn tweede concept
 In mijn tweede concept heb ik het QR code idee achterwege gelaten. Nu is het het idee om Petra de kledingstukken te laten filteren. In de app kan de gebruiker de kledingstukken filteren op kleur (zwart, rood, wit, blauw, etc.), stijl (casual, formeel, sportief, etc.), seizoen (winter, zomer, herfst, lente) en gelegenheid (feestje, bruiloft, begravenis, etc.). De gebruiker kan zelf ook kledingstukken en filters toevoegen. Bij het toevoegen van de kleding kan de gebruiker zelf selecteren welke kleur, voor welk seizoen, in welke stijl en voor welke gelegenheid het kledingstuk is.
