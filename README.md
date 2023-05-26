@@ -53,14 +53,25 @@ Helaas liep ik tegen een aantal problemen met dit concept. Wat bleek is dat Petr
 <img src="/concept1-2.jpg" height=400px>
 
 ## Week 2
-In week 2 kregen we de mogelijkheid om weer ons ontwerp te laten testen door Petra. Ik was toch benieuwd naar wat zij vond van het idee, maar ik kreeg ongeveer dezelfde feedback terug waar ik zelf ook al bang voor was.
+In week 2 kregen we de mogelijkheid om weer ons ontwerp te laten testen door Petra. 
 
-Uit de test bleek dat mijn concept niet handig zou zijn voor Petra. Het probleem was dat mijn concept gemaakt was voor een kledingkast waarin Petra haar kleding elke keer op dezelfde plekken legt. Dit omdat wanneer Petra de QR code scant, de informatie over het kledingstuk wat bij de QR code ligt wordt voorgelezen aan Petra. Als kledingstukken telkens worden verplaatst en dus bij de verkeerde QR codes gelegd worden worden de verkeerde kledingstukken aan Petra voorgelezen. Ik dacht dit eerst op te lossen door braille toe te voegen aan de QR codes, zodat ze zelf de QR codes bij de bijbehorende kleding kon leggen. Ik was alleen van mening dat dit het alleen maar moeilijker zou maken voor Petra, en ik dacht dat dit wel makkelijker kon.
+### Hoe heeft het testen tot het tweede concept geleid?
+In mijn eerste concept probeerde ik een oplossing te creëren waarbij QR-codes werden gebruikt om Petra's kledingkast inzichtelijk te maken. Het idee was dat elke QR-code zou worden gekoppeld aan een specifiek kledingstuk, en wanneer Petra een QR-code zou scannen, zou ze informatie over het bijbehorende kledingstuk te horen krijgen. Het leek een handige manier om Petra te helpen bij het navigeren door haar kledingkast, maar tijdens het testen kwam ik erachter dat dit concept niet goed werkte voor haar specifieke behoeften.
 
-Daarom besloot ik voor een nieuw concept te gaan, wat beter rekening houdt met de belangen van Petra.
+Het grootste probleem was dat het QR-codeconcept vereiste dat Petra haar kledingstukken altijd op dezelfde plek zou moeten leggen, zodat de QR-codes correct gekoppeld konden worden. Dit bleek erg onpraktisch, omdat Petra haar kleding vaak verplaatste, bijvoorbeeld bij het schoonmaken van haar kast of het wisselen van seizoenen. Hierdoor kwamen de QR-codes niet meer overeen met de werkelijke locatie van de kledingstukken, wat leidde tot verwarring en frustratie voor Petra.
+
+Mijn eerste oplossing voor dit probleem was om braille toe te voegen aan de QR-codes, zodat Petra ze zelf kon voelen en ze bij de juiste kledingstukken kon plaatsen. Hierdoor zou ze niet afhankelijk zijn van visuele informatie en zou ze in staat zijn om de QR-codes te matchen met de juiste kledingstukken. Echter, na zorgvuldige overweging realiseerde ik me dat dit het proces alleen maar complexer zou maken voor Petra. Het zou extra tijd en moeite kosten om braille op de QR-codes toe te voegen, en het zou nog steeds vereisen dat Petra haar kleding op dezelfde plaatsen zou moeten leggen om de juiste koppeling te behouden.
+
+Daarom heb ik besloten om een volledig nieuw concept te ontwikkelen dat beter zou aansluiten bij de behoeften en capaciteiten van Petra.
 
 ## Mijn tweede concept
-In mijn tweede concept heb ik het QR code concept achterwege gelaten. Nu is het het idee om Petra de kledingstukken te laten filteren. In de app kan de gebruiker de kledingstukken filteren op kleur (zwart, rood, wit, blauw, etc.), stijl (casual, formeel, sportief, etc.), seizoen (winter, zomer, herfst, lente) en gelegenheid (feestje, bruiloft, begravenis, etc.). De gebruiker kan zelf ook kledingstukken en filters toevoegen. Bij het toevoegen van de kleding kan de gebruiker zelf selecteren welke kleur, voor welk seizoen, in welke stijl en voor welke gelegenheid het kledingstuk is.
+In dit tweede concept heb ik het QR-codegedeelte volledig achterwege gelaten en een nieuwe benadering geïntroduceerd. De focus ligt nu op het filteren van kledingstukken op basis van verschillende criteria, zoals kleur, stijl, seizoen en gelegenheid.
+
+Deze nieuwe benadering biedt Petra de mogelijkheid om eenvoudig filters in te stellen op basis van haar voorkeuren, bijvoorbeeld 'zwart', 'casual', 'winter' en 'dagelijks'. Vervolgens zal de app alleen de kledingstukken tonen die aan deze criteria voldoen. Dit stelt Petra in staat om snel de gewenste kledingstukken te vinden zonder afhankelijk te zijn van de fysieke locatie van QR-codes. Ze kan eenvoudigweg de gewenste filters instellen en de app zal haar de relevante kledingstukken laten zien.
+
+Om dit te realiseren, heb ik de app zo ontworpen dat gebruikers zelf kledingstukken kunnen toevoegen en de benodigde informatie kunnen invoeren, zoals kleur, stijl, seizoen en gelegenheid. Op deze manier kan Petra haar kledingstukken naar eigen inzicht organiseren en categoriseren. Ze kan nieuwe kledingstukken toevoegen en de juiste kenmerken toewijzen, waardoor ze volledige controle heeft over de informatie en filters die ze gebruikt om haar kleding te beheren.
+
+Dit nieuwe concept biedt Petra meer vrijheid en flexibiliteit bij het organiseren en vinden van haar kleding in de kast. Het elimineert de beperkingen van de QR-codebenadering en biedt een intuïtievere manier om haar kleding te filteren en te selecteren op basis van haar persoonlijke voorkeuren en behoeften. Door deze aanpak kan Petra zelf bepalen hoe ze haar kledingkast wil organiseren en kan ze snel de juiste kledingstukken vinden, zonder zich zorgen te hoeven maken over het handhaven van een vaste fysieke indeling.
 
 ### Functionaleiten
 - Een homescreen
